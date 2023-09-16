@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/login-quickly/static/css/main.bf63bb74.css",
+    "main.js": "/login-quickly/static/js/main.204dbb27.js",
+    "static/media/backgroundImage.PNG": "/login-quickly/static/media/backgroundImage.27d1d9a07ee044839188.PNG",
+    "static/media/repair-icon.png": "/login-quickly/static/media/repair-icon.952dd2fab1028e236a1e.png",
+    "index.html": "/login-quickly/index.html",
+    "main.bf63bb74.css.map": "/login-quickly/static/css/main.bf63bb74.css.map",
+    "main.204dbb27.js.map": "/login-quickly/static/js/main.204dbb27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf63bb74.css",
+    "static/js/main.204dbb27.js"
+  ]
+}
