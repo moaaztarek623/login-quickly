@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/login-quickly/static/css/main.5b5732e4.css",
-    "main.js": "/login-quickly/static/js/main.b10dd682.js",
+    "main.css": "/login-quickly/static/css/main.1b160c70.css",
+    "main.js": "/login-quickly/static/js/main.521796a5.js",
     "static/media/backgroundImage.PNG": "/login-quickly/static/media/backgroundImage.27d1d9a07ee044839188.PNG",
     "static/media/repair-icon.png": "/login-quickly/static/media/repair-icon.952dd2fab1028e236a1e.png",
+    "static/media/notification.svg?s3g3t9": "/login-quickly/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "/login-quickly/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/login-quickly/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/login-quickly/static/media/notification.c5d9251ea82e42f75381.ttf",
     "index.html": "/login-quickly/index.html",
-    "main.5b5732e4.css.map": "/login-quickly/static/css/main.5b5732e4.css.map",
-    "main.b10dd682.js.map": "/login-quickly/static/js/main.b10dd682.js.map"
+    "main.1b160c70.css.map": "/login-quickly/static/css/main.1b160c70.css.map",
+    "main.521796a5.js.map": "/login-quickly/static/js/main.521796a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b5732e4.css",
-    "static/js/main.b10dd682.js"
+    "static/css/main.1b160c70.css",
+    "static/js/main.521796a5.js"
   ]
 }
